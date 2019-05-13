@@ -1,4 +1,4 @@
-# High-school-students-and-their-future-predictions
+# High school students and their future predictions
 This is a grouped project about the high school students and the future predictions. We select many variables from the raw data, and build Logistic models to analysis the factors determine the high school students college choice and their salary when they start working. Lasso, decision tree and random forest are also used in this analysis. 
 
 ### Data Source
