@@ -8,13 +8,28 @@ https://nces.ed.gov/surveys/hsls09/
 Rstudio
 #### packages
 readxl
-ggplot2
 dplyr
+gmodels
 corrplot
+ResourceSelection
+pscl
+bestglm
+car
+glmnet
+pROC
+rpart
+rpart.plot
 data.table
 RColorBrewer
 plotly
 faraway
+randomForest
+psych
+qgraph
+factoextra
+ggplot2
+Rcpp
+RColorBrewer
 
 ### Files
 Excel<br>
